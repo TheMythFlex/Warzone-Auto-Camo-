@@ -37,7 +37,12 @@ Adds Attachments On All Guns
 <!-- BLOG-POST-LIST:END -->
 
 please consider donating
+
+![alt text](https://cdn.discordapp.com/attachments/899424300120027216/939630726251446332/68747470733a2f2f696d6167652e6962622e636f2f6934455333552f62632e706e67.png) 
+
+
 Btc : 38mnPE4dNu3vbFS9UbRq4kTWQvsSJbBZGz
+
 ---
 
 ## [Tool Showcase Video](https://www.youtube.com/watch?v=426UF7RnNdQ)
