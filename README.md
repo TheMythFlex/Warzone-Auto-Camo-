@@ -36,6 +36,8 @@ Adds Attachments On All Guns
 - More camo configs will be added soon 
 <!-- BLOG-POST-LIST:END -->
 
+please consider donating
+Btc : 38mnPE4dNu3vbFS9UbRq4kTWQvsSJbBZGz
 ---
 
 ## [Tool Showcase Video](https://www.youtube.com/watch?v=426UF7RnNdQ)
